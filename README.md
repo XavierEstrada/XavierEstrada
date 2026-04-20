@@ -37,58 +37,47 @@ from enterprise management systems to e-commerce platforms.
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,nodejs,express,postgres,azure,supabase,vercel,git&perline=6"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 [FinTrack](https://github.com/XavierEstrada/fintrack)
-> Full stack personal finance management app.
+### 💰 [FinTrack — Personal Finance Manager](https://fin-track-wheat-two.vercel.app)
 
-Track income & expenses, control monthly/annual budgets by category,
-set savings goals and visualize balance evolution with detailed reports.
+> Full-stack personal finance app — track income & expenses, manage budgets
+> by category, set savings goals and visualize spending patterns.
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🏗️ Sistema de Gestión Integral de Obras
-> Enterprise construction management system — delivered for a real client.
-
-Full stack system covering project tracking, business logic and reporting.
-Deployed on Azure with SQL Server.
+- 🔑 JWT auth (ES256) via Supabase + role-based admin panel with global stats
+- 💱 Multi-currency support + client-side image compression for avatars
+- ⚡ .NET 9 REST API with EF Core · React + TanStack Query + Zustand on the frontend
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,dotnet,postgres,supabase,docker,vercel"/>
 </p>
 
-### 🛒 E-Commerce Platforms
-> Multiple client projects with real-time inventory and admin dashboards.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel)](https://fin-track-wheat-two.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XavierEstrada/FinTrack)
+
+---
+
+### 🏗️ [SGIO — Sistema de Gestión Integral de Obras](https://proyectodegraduaciondemo-production.up.railway.app/)
+
+> Full-stack web system for managing construction projects — graduation project
+> built for a real company, adapted as a public demo.
+
+- 🔐 RBAC with 4 roles + AES-256 encryption
+- 📊 Analytics dashboard + read-only guest access
+- 📦 Covers phases, tasks, milestones, inventory, suppliers, employees & invoices
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,docker,js,bootstrap"/>
 </p>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-railway-0B0D0E?style=flat&logo=railway)](https://proyectodegraduaciondemo-production.up.railway.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XavierEstrada/ProyectoDeGraduacion_Demo)
 
 ---
 
