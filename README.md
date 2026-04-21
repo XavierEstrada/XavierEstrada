@@ -37,8 +37,30 @@ from enterprise management systems to e-commerce platforms.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,nodejs,express,postgres,azure,supabase,vercel,git&perline=6"/>
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,python,java,html,css&perline=6"/>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,spring&perline=5"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&perline=5"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,vercel,git,github,linux&perline=5"/>
+</p>
+
+**Design & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vite&perline=5"/>
 </p>
 
 ---
