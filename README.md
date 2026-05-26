@@ -98,7 +98,6 @@ from enterprise management systems to e-commerce platforms.
   <img src="https://skillicons.dev/icons?i=dotnet,postgres,docker,js,bootstrap"/>
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-railway-0B0D0E?style=flat&logo=railway)](https://proyectodegraduaciondemo-production.up.railway.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XavierEstrada/ProyectoDeGraduacion_Demo)
 
 ---
