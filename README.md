@@ -14,9 +14,6 @@
   <a href="https://xavierguadamuzportfolio.info">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/XavierEstrada">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat"/>
 </p>
 
