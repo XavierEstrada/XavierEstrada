@@ -82,19 +82,20 @@ from enterprise management systems to e-commerce platforms.
 
 ---
 
-### 🏗️ [SGIO — Sistema de Gestión Integral de Obras](https://proyectodegraduaciondemo-production.up.railway.app/)
+### 🏗️ [SGIO — Sistema de Gestión Integral de Obras](https://proyectodegraduacion-demo.onrender.com)
 
-> Full-stack web system for managing construction projects — graduation project
-> built for a real company, adapted as a public demo.
+> Full-stack construction project management system — graduation project
+> built for a real company, adapted as a public portfolio demo.
 
-- 🔐 RBAC with 4 roles + AES-256 encryption
-- 📊 Analytics dashboard + read-only guest access
-- 📦 Covers phases, tasks, milestones, inventory, suppliers, employees & invoices
+- 🔐 Granular RBAC (4 roles, each with different permissions) + AES-256 password encryption
+- 📊 Kanban board, dual analytics dashboards (Chart.js), milestone comments/timeline, and projected cash flow
+- ⚙️ PDF report export, cloud file storage (Supabase), activity audit log, automated tests (xUnit) & CI (GitHub Actions)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,docker,js,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,supabase,docker,js,bootstrap&perline=7"/>
 </p>
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-000000?style=flat&logo=render&logoColor=white)](https://proyectodegraduacion-demo.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XavierEstrada/ProyectoDeGraduacion_Demo)
 
 ---
